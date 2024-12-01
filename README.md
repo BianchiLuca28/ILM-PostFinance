@@ -16,7 +16,7 @@ This project aims to provide a transparent and explainable AI solution for credi
 
 The repository is organized into the following folders:
 
-- **`database/`**: Contains the datasets used in the project.
+- **`database/`**: Contains the datasets and models used in the project.
 - **`notebooks/`**: Contains the Jupyter notebooks for the various stages of the project:
   - `loading_dataset.ipynb`: Transforming the dataset in a more friendly format to be then analyzed.
   - `exploratory_data_analysis.ipynb`: Exploratory Data Analysis (EDA) notebook.
